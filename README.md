@@ -6,3 +6,4 @@ Singleton
 Strategy
 
 Facade
+# prompts-recipe-to-create-a-ebook
